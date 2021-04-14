@@ -1,3 +1,33 @@
+# Github Finder - React class components
+
+- In traversy Media Course we learned how to use react class components, lifecycle like componentDidMount. 
+
+- We are going to refactor this project using hooks and functions.
+
+- I use this repository to consult.
+
+### 🛠 Tecnologies
+
+- [React](https://pt-br.reactjs.org/)
+- [React-Router-Dom](https://reactrouter.com/web/guides/quick-start)
+- [Axios](https://github.com/axios/axios)
+
+![ScreenShot](https://raw.githubusercontent.com/danielofaustino/github-finder/master/screenshot/githubfinder.gif)
+
+### Author
+
+---
+
+<a href="https://github.com/danielofaustino/danielofaustino">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55099688?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Daniel Faustino</b></sub></a> <a href="https://www.linkedin.com/in/danielofaustino" title="Linkedin">🚀</a>
+
+Made by Daniel Faustino 👋🏽 Get in touch!
+
+[![Twitter Badge](https://img.shields.io/badge/-@danielofaustino-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danielofaustino)](https://twitter.com/danielofaustino) [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielofaustino/)](https://www.linkedin.com/in/danielofaustino/)
+[![Gmail Badge](https://img.shields.io/badge/-danieloliveirafaustino@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieloliveirafaustino@gmail.com)](mailto:danieloliveirafaustino@gmail.com)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
