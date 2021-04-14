@@ -2,7 +2,7 @@
 
 - In traversy Media Course we learned how to use react class components, lifecycle like componentDidMount. 
 
-- We are going to refactor this project using hooks and functions.
+- We are going to refactor this project using hooks and functions: [Github-Finder-Refactored](https://github.com/danielofaustino/github-finder-refactored)
 
 - I use this repository to consult.
 
